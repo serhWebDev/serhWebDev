@@ -36,3 +36,10 @@ My experience covers the full software development lifecycle, from initial conce
 
 * **LinkedIn:** https://www.linkedin.com/in/serhiivekshyn
 * **Email:** serhiivekshyn@gmail.com
+
+---
+
+**Languages:**
+
+🇺🇦🇬🇧🇩🇪
+
