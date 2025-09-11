@@ -11,8 +11,8 @@ My experience covers the full software development lifecycle, from initial conce
 ### **Tech Stack & Skills**
 
 **Core:**
-* **Front-End:** React, React Native, Next.js
-* **Back-End:** Nest.js, Node.js, Express.js
+* **Front-End:** React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15" height="15" alt="React" />, React Native <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15" height="15" alt="React Native" />, Next.js <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="15" height="15" alt="Next.js" />
+* **Back-End:** Node.js <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="15" height="15" alt="Node" />, Nest.js <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="15" height="15" alt="Nest" />
 * **Languages:** JavaScript, TypeScript
 * **Databases:** PostgreSQL, MongoDB
 * **Cloud & DevOps:** Docker, Vercel
